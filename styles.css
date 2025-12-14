@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(221, 221, 221);
+}
+
+h1 {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 1.7rem;
+}
+
+.th1 {
+    width: 200px;
+    ;
+    color: white;
+    background-color: rgb(9, 79, 9);
+    border: 30px;
+    width: 30%;
+}
+
+.th2 {
+    width: 200px;
+    color: white;
+    background-color: rgb(9, 79, 9);
+    border: 30px;
+    width: 30%;
+}
+
+.th3 {
+    width: 200px;
+    color: white;
+    background-color: rgb(9, 79, 9);
+    border: 30px;
+    width: 30%;
+}
+
+.th4 {
+
+    width: 200px;
+    color: white;
+    background-color: rgb(9, 79, 9);
+    border: 30px;
+    width: 30%;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: rgb(9, 79, 9);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+}
+
+.bild {
+    width: 350px;
+    height: 300px;
+}
+
+.tom {
+    width: 200px;
+    height: 200px;
+}
+
+.robin {
+    width: 200px;
+    ;
+    height: 200px;
+}
+
+.sally {
+    width: 200px;
+    ;
+    height: 200px;
+}
